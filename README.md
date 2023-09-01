@@ -4,6 +4,7 @@
 ##### I am currently working with evidence synthesis methodology (meta-analysis/systematic reviews) 
 ##### I am a supreme imposter - some days I pose as a biologist 🔬 , 
 ##### some days I am pretending to write codes in R 💻 and some days I am trying to befriend statisticians ❗ 
+##### If I am sitting with a cup of coffee, I am thinking about either open science or academic publishing 🤔
 
 <!--
 **shreyadimri/shreyadimri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
