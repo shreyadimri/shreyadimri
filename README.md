@@ -4,4 +4,6 @@
   - I am currently working with evidence synthesis methodology (meta-analysis/systematic reviews) 
   - I am a supreme imposter - some days I pose as a biologist 🔬 , 
   - some days I am pretending to write codes in R 💻 and some days I am trying to befriend statisticians ❗ 
-  - If you catch me day-dreaming, I am thinking about open science and why we do science the way we do it .. 
+  - If you catch me day-dreaming, I am thinking about open science and why we do science the way we do it ..
+
+  - I am currently playing around with Astro to build my website (under construction) https://shreyadimri.github.io/ 
